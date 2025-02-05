@@ -1,4 +1,4 @@
-# BY RE
+# BY dullMelon
 
 ## THIS IS A PICTURE
 
