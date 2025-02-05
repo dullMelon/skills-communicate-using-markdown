@@ -1,7 +1,10 @@
 # BY RE
-# THIS IS AN H1 HEADER
-###### this is an h6 header
+
+## THIS IS A PICTURE
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## THESE ARE CODES
 
 ```
 $ git init
@@ -16,3 +19,10 @@ var myVar = "Hello, world!";
 ```
 
 var myVar = "Hello, world!";
+
+## THIS IS A TASK LIST
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
